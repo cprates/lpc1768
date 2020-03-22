@@ -2,7 +2,7 @@
 
 You'll find in this repo a set of drivers for the NXP LPCXpresso LPC1768 development board
 
-![LPCXpresso LPC1768](https://imgur.com/uwowyLD)
+![](https://i.imgur.com/uwowyLD.jpg)
 
 #### This list includes:
 * Ethernet
